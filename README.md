@@ -8,7 +8,7 @@ DeepAffects Speaker diarization API tries to figure out "Who Speaks When". It es
 
 `POST https://proxy.api.deepaffects.com/audio/generic/api/v2/async/diarize`
 
-### Sample Code
+## Sample Code
 
 ### Shell
 
