@@ -1,8 +1,6 @@
 # Multi-Speaker-Diarization
 Automated Multi Speaker diarization API for meetings, calls, interviews, press-conference etc.
 
-# deepaffects-python
-
 [![Build Status](https://travis-ci.org/SEERNET/deepaffects-python.svg?branch=master)](https://travis-ci.org/SEERNET/deepaffects-python)
 [![PyPI version](https://badge.fury.io/py/deepaffects.svg)](https://badge.fury.io/py/deepaffects)
 
